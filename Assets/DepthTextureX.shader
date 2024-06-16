@@ -1,4 +1,4 @@
-Shader "Unlit/DepthTexture"
+Shader "Unlit/DepthTextureX"
 {
     Properties
     {
